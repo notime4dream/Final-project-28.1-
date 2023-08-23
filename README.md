@@ -31,4 +31,4 @@ test_rt содержит автоматизированные тесты для 
 
 python -m pytest -v --driver Chrome --driver-path chromedriver.exe test_rt.py
 
-## Окружение: Windows 10, Chrome ver 115.0.5790.173 (Официальная сборка), (64 бит)
+Окружение: Windows 10, Chrome ver 115.0.5790.173 (Официальная сборка), (64 бит)
